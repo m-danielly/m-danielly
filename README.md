@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahdi
-- 👀 I’m interested in Data engineering and ctting-edge technologies
+- 👀 I’m interested in Data Analysis, Data engineering and ctting-edge technologies
 - 💞️ I’m looking to collaborate on ETL, Data analysis
 - 📫 How to reach me: m.danialy@gmail.com
 
