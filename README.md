@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @Mahdi
-- 👀 I’m interested in Data Analysis, Data engineering and ctting-edge technologies
-- 💞️ I’m looking to collaborate on ETL, Data analysis
+-  Hi, I’m @Mehdi
+
+Senior Data Engineer | Scala | Spark | Trino | SQL | Data Analytics
+
+✔ 6+ years in Telecom Analytics
+✔ Big Data Pipelines
+✔ SQL Performance Optimization
+✔ ETL Automation
+✔ Scala & Spark pipeline development
+✔ Data Governance
+
 - 📫 How to reach me: m.danialy@gmail.com
 
 <!---
